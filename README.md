@@ -23,7 +23,7 @@
   
 </div>
 
- ![Snake animation](https://github.com/Iaefilipe/IaeFilipe/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Iaefilipe/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
